@@ -1,0 +1,18 @@
+{
+  "name": "agent-light",
+  "version": "1.0.0",
+  "description": "AI Agent 红绿灯流程提醒系统 - USB串口三色报警灯",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node server/index.js",
+    "web:dev": "cd web && npm run dev",
+    "web:build": "cd web && npm run build",
+    "web:preview": "cd web && npm run preview"
+  },
+  "dependencies": {
+    "serialport": "^12.0.0",
+    "express": "^4.21.0",
+    "ws": "^8.18.0"
+  }
+}

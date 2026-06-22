@@ -1,0 +1,16 @@
+
+🚦 Agent Light 服务已启动
+   HTTP API:  http://localhost:3777/api/status
+   WebSocket: ws://localhost:3777/ws
+   设置面板:  http://localhost:3777
+
+[Serial] 尝试自动连接: /dev/tty.wchusbserial2120
+[Serial] 自动连接成功
+
+🚦 Agent Light 服务已启动
+   HTTP API:  http://localhost:3777/api/status
+   WebSocket: ws://localhost:3777/ws
+   设置面板:  http://localhost:3777
+
+[Serial] 尝试自动连接: /dev/tty.wchusbserial2120
+[Serial] 自动连接成功
